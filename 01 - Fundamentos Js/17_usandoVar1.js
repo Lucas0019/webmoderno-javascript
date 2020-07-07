@@ -1,0 +1,1 @@
+// Objetivo : iremos dos deparar com alguns exercicios diferentes

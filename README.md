@@ -1,6 +1,6 @@
-# WebModerno_JavaScript
+# WebModerno_JavaScript 🚀️
 
-Curso: Desenvolvimento Web Moderno JavaScript 
+Curso: Desenvolvimento Web Moderno JavaScript
 
 Plataforma: Udemy
 
