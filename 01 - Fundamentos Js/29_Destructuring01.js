@@ -25,12 +25,12 @@ console.log(Nome, Idade) //Lucas 20
 const { Nome: n, Idade: i } = pessoa
 console.log(n, i); //Lucas 20
 
-//Teste , tirando um atibuto que não existe
+//Teste , tirando um atributo que não existe
 const { Sobrenome } = pessoa
 console.log(Sobrenome, Signo = true) // undefined true
 
 
-//Acessado os atributos dentro da variavel endereço
+//Acessado os atributos dentro da variável endereço
 const { endereço: { Logradouro, Numero } } = pessoa
 console.log(Logradouro, Numero)
 
