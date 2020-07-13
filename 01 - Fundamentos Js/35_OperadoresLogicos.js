@@ -35,5 +35,12 @@
  *  --> IN (TV 50 POLEGADAS)
  *  --> OU EXCLUSIVO (TV 32 POLEGADAS)
  *  --> OU (Sorvete)
- *
  */
+
+function compras(trabalho1, trabalho2) {
+    const comprarSorvete = trabalho1 || trabalho2 // || = OU
+    const comprarTV50 = trabalho1 && trabalho2 // && = E
+        //const comprarTV32 = !!(trabalho1 ^ trabalho2) // || OU Exclusivo, bitwise xor
+    const comprarTV32 = trabalho1 != trabalho2 // Um bitwise pode ser entendido com uma diferença
+    const manterSaudavel = !comprarSorvete // usamos uma negação para comprarSorvete , aqui temos um operador Unário
+}
