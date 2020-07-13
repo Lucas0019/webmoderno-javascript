@@ -1,7 +1,7 @@
 # WebModerno_JavaScript 🚀️
 
-Curso: Desenvolvimento Web Moderno JavaScript
+Curso: Desenvolvimento Web Moderno JavaScript + Projetos
 
 Plataforma: Udemy
 
-Professor:Leonardo Leitão
+Professor: Leonardo Leitão
