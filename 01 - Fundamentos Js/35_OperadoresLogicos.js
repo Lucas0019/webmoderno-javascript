@@ -43,4 +43,18 @@ function compras(trabalho1, trabalho2) {
         //const comprarTV32 = !!(trabalho1 ^ trabalho2) // || OU Exclusivo, bitwise xor
     const comprarTV32 = trabalho1 != trabalho2 // Um bitwise pode ser entendido com uma diferença
     const manterSaudavel = !comprarSorvete // usamos uma negação para comprarSorvete , aqui temos um operador Unário
+
+    //Podemos criar objeto dessa maneira abaixo com a nova versão do Js
+    return {
+        comprarSorvete,
+        comprarTV50,
+        comprarTV32,
+        manterSaudavel
+    }
 }
+
+//Casos teste
+console.log(compras(true, true));
+console.log(compras(true, false));
+console.log(compras(false, true));
+console.log(compras(false, false));
