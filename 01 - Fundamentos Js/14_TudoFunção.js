@@ -1,6 +1,6 @@
 console.log(typeof Object)
     //function
-    //o obejto em Js é uma fução
+    //o objeto em Js é uma função
 
 class Produto {}
 console.log(typeof Produto)

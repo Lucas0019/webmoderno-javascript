@@ -36,6 +36,6 @@ console.log('Pelo menos um é verdadeiro...')
 console.log(!!('' || null || 0 || " ")) // essa expressão é verdadeira pq pleo menos um é verdadeiro , que é o caso do " "
 
 
-//Idetificando se há um nome na variavel nome
+//Identificando se há um nome na variável nome
 let nome = "Lucas"
 console.log(nome || 'Desconhecido')

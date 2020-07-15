@@ -1,11 +1,11 @@
-// Objetivo : iremos dos deparar com alguns exercicios diferentes
+// Objetivo : iremos dos deparar com alguns exercícios diferentes
 
-//Primero coisa , declaramos uma variavel do tipo var dentro de 3 colchetes {}
+//Primero coisa , declaramos uma variável do tipo var dentro de 3 colchetes {}
 
 {
     {
         {
-            { var sera = 'sera?' }
+            { var sera = 'sera ?' }
             console.log(sera)
         }
     }
@@ -13,8 +13,8 @@
 console.log(sera)
 
 // sera?
-// Em Js uma variavel só tem dois escopos possiveis 
-// Em algumas liguagens de programação a variavel é somente vizivel dentro do bloco em que a mesma foi declarado
+// Em Js uma variável só tem dois escopos possíveis 
+// Em algumas linguagens de programação a variável é somente visível dentro do bloco em que a mesma foi declarado
 
 
 
@@ -23,7 +23,7 @@ function teste() {
     var local = 123
     console.log(local)
         //123
-        //Quando a Variavel for declarada dentro de uma função estára somente visivel dentro da mesma
+        //Quando a Variável for declarada dentro de uma função estará somente visível dentro da mesma
 }
 teste()
 

@@ -1,5 +1,7 @@
-// O objeto Array do JavaScript é um objeto global usado na construção de 'arrays': 
-// objetos de alto nível semelhantes a listas.
+/**
+ * O objeto Array do JavaScript é um objeto global usado na construção de 'arrays': 
+ * objetos de alto nível semelhantes a listas.
+ */
 
 
 // Vai ler a quantidade de itens( frutas existentes) no array 
@@ -13,12 +15,12 @@ console.log(Notas[0], Notas[3])
 console.log(Notas[4])
 
 
-//adcionando uma nota a um index(Posição da variaveç)
+//adicionando uma nota a um index(Posição da variável)
 Notas[4] = 6.2
 console.log(Notas)
 console.log(Notas.length)
 
-// usando o push para adcionar objetos e outros itens 
+// usando o push para adicionar objetos e outros itens 
 Notas.push({ id: 3 }, false, null, 'Teste')
 console.log(Notas)
 

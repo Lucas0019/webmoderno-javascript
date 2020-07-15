@@ -13,4 +13,4 @@ console.log('Numero Fora: ', numero)
 //Numero dentro:  2
 //Numero Fora:  1
 
-//Como o Let é uma variavel que trabalha com escopo , foi possivel respeitar as sentenças de codigo
+//Como o Let é uma variável que trabalha com escopo , foi possível respeitar as sentenças de código

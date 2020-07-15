@@ -17,5 +17,5 @@ const Media = total / (peso1 + peso2)
 
 console.log(Media.toFixed(2)) // O toFixed , ele controla quantas casas decimais voce deseja no valor final
 console.log(Media.toString(2)) // Transforma em numero binário 
-console.log(typeof Media) // identifica o tipo da variavel
+console.log(typeof Media) // identifica o tipo da variável
 console.log(typeof Number)

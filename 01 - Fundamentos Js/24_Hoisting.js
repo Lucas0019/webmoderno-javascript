@@ -1,7 +1,7 @@
 // Em JavaScript, uma variável pode ser declarada após ter sido usada.
 //Em outras palavras; uma variável pode ser usada antes de ser declarada.
 
-//NOTA: Não faz-se necessario o uso desse efeito em problemas, dificilmente irá agrgar valor (importancia)
+//NOTA: Não faz-se necessário o uso desse efeito em problemas, dificilmente irá agregar valor (importância)
 
 //USANDO O VAR 
 

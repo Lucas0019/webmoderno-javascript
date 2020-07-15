@@ -5,13 +5,13 @@ let valor // não foi inicializada
 console.log(valor)
     //undefined
 
-valor = null // ausencia de valor
+valor = null // ausência de valor
 console.log(valor)
     // NULL
 
 //console.log(valor.toSting())
 //Cannot read property 'toSting' of null at Object.
-//Não pode ler o numero de uma variavel que não tem referencia
+//Não pode ler o numero de uma variável que não tem referencia
 
 const produto = {}
 console.log(produto.tamanho)

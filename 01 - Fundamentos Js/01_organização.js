@@ -1,5 +1,5 @@
 console.log("Sentença de Código")
-    // todo codigo possui uma linha de codigo e bloco do mesmo
+    // todo código possui uma linha de código e bloco do mesmo
 
 {
     {

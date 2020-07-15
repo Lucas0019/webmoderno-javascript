@@ -6,7 +6,7 @@ let esse = 3.157
 console.log(esse)
 console.log(typeof esse)
 
-//Evite nomes genéricos e sigla
+//Evite nomes genéricos e siglas
 
 let valor = ''
 let numero = 1

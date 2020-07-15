@@ -1,9 +1,9 @@
 /**
  * 
- * usado mais para a questão da documnetação do código
+ * usado mais para a questão da documentação do código
  * 
  * 
  */
 
 
-consoloe.log('Estácomentado') // Comentando somente uma linha
+console.log('Está comentado') // Comentando somente uma linha

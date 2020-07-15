@@ -1,4 +1,4 @@
-// Armazenar a  função em uma variavel
+// Armazenar a  função em uma variável
 
 const imprimirSoma = function(a, b) { // função anonima, ou seja sem nome 
     console.log(a + b) // imprimido o resultado 
@@ -15,7 +15,7 @@ var Somando = function(A, B) {
 Somando(2, 6)
     //8
 
-// Armazenando a função Arrow em uma variavel
+// Armazenando a função Arrow em uma variável
 // Forma reduzida de construir uma função 
 const soma = (a, b) => {
     return a + b
@@ -23,7 +23,7 @@ const soma = (a, b) => {
 
 console.log(soma(3, 2))
 
-//Retiorno implicito
+//Retorno implícito
 const Subtraindo = (a, b) => a - b //faz desnecessário não usar as {}
 console.log(Subtraindo(6, 2))
 

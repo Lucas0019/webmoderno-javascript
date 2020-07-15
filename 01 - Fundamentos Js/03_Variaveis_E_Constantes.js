@@ -6,24 +6,24 @@ b = 40
 
 console.log(a, b)
 
- a = 300
- b = 400
+a = 300
+b = 400
 
- console.log(a, b)
+console.log(a, b)
 
- const c = 5
- // c = 5
+const c = 5
+    // c = 5
 
- console.log(c)
+console.log(c)
 
- /**
-  * Nessa aula aprendemos tres maneiras de declarar uma variavel
+/**
+  * Nessa aula aprenderemos três maneiras de declarar uma variável
   
-  PRIGRAMADOR BR
+  PROGRAMADOR BR
 
   //Diferença entre Var, Let e Const
 
-// var é uma variavel global que funciona em qualquer linha do codigo
+// var é uma variável global que funciona em qualquer linha do código
 // let só funciona dentro do bloco declarado 
 
 
@@ -39,12 +39,11 @@ console.log(a, b)
 console.log(a)*/
 
 //Const tem o mesmo comportamento de um let, ou seja só funciona dentro do bloco de código em que foi definido
-// Só que não posso eatribuir um valor a uma variavel que já tem um valor definido
+// Só que não pode ser atribuído  um valor a uma variável que já tem um valor definido
 
-if(true){
-    const a = { Nome: "lucas" } 
-    a.Nome = "Xavier" // Só consigo modificar a variavel se eu chamar ela e alterar ela novamente 
+if (true) {
+    const a = { Nome: "lucas" }
+    a.Nome = "Xavier" // Só consigo modificar a variável se eu chamar ela e alterar ela novamente 
 
     console.log(a)
 }
-

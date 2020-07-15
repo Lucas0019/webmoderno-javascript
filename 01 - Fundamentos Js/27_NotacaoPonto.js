@@ -1,12 +1,12 @@
-// Aprender a importancia do PONTO
+// Aprender a importância do PONTO
 //A notação ponto ja usada , tem como função acessar partes/recursos do javascript
 
-console.log(typeof console); //Obejto
+console.log(typeof console); //Objeto
 
 console.log(Math.ceil(6.1)); // Arredonda para o teto , nesse caso 7
 
 
-//criando um objeto e agrefando dados dinamicamnete 
+//criando um objeto e agregando dados dinamicamente 
 const obj1 = {}
 obj1.nome = 'Bola'
     // obj1['Bola'] = 'Bola' 

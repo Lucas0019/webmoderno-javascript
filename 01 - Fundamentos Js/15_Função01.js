@@ -20,7 +20,7 @@ console.log(soma(2 + 3)) //5
 console.log(soma(2)) //3
 
 
-// paratica rapido 
+// prática rápida
 function nome(A, B) {
 
     console.log(A * B)

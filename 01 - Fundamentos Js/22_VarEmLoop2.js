@@ -11,5 +11,5 @@ for (var i = 0; i < 10; i++) {
 funcs[2]()
 funcs[8]()
 
-//Qual será o valor de i quando chamarmos o indice 2?
-//como essa variavel foi declarada em  VAR, ela não tem escopo,, e com isso  irá retornar  10 para quarquer chamada
+//Qual será o valor de i quando chamarmos o índice 2?
+//como essa variável foi declarada em  VAR, ela não tem escopo,, e com isso  irá retornar  10 para qualquer chamada
