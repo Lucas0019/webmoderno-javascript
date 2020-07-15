@@ -1,0 +1,1 @@
+/* 1) Faça um laço for de 0 a 100 que retorne um array com todos os números que são divisíveis por 7; */
