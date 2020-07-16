@@ -12,3 +12,7 @@ console.log(num1); //2
 //Forma prefixada, esse operando decrementa o valor da unidade
 --num1
 console.log(num1); //1
+
+//Desafio, escreva códigos SIMPLES
+console.log(++num1 === num2--); // True
+console.log(num1 === num2); // False
