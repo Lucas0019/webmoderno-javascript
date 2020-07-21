@@ -1,0 +1,1 @@
+//Função de comparação entre duas notas com possíveis retornos
