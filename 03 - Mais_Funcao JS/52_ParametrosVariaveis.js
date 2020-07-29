@@ -1,4 +1,4 @@
-/**Forma antes no novo ECMAScript */
+/**Forma antes no novo ECMAScript 2015 */
 
 function soma() {
     let soma = 0
