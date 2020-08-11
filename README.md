@@ -14,9 +14,9 @@ Aprender tudo de ponta a ponta sobre esse o ecossistema javaScript
 
 ### Conteúdo
 
-- HTML5,CSS3 e JavaScript 
+- HTML5, CSS3 e JavaScript 
 - Node.js e ESNext 
 - Ajax, Gulp, Webpack 
-- JQuery,  Bootstrap 
+- JQuery, Bootstrap 
 - React, VueJS, Angular 9 
 - BD Relacional, NoSQL, Express
