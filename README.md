@@ -7,3 +7,11 @@ Curso: Desenvolvimento Web Moderno JavaScript + Projetos
 Plataforma: Udemy
 
 Professor: Leonardo Leitão
+
+#### Objetivo:
+
+Aprender tudo de ponta a ponta sobre esse o ecossistema javaScript 
+
+### Conteúdo
+
+- JavaScript | Node.js| ESNext | HTML5 | CSS3 | Ajax | Gulp |  Webpack | jQuery | Bootstrap | React | VueJS | Angular 9 | BD Relacional |  NoSQL |  Express
