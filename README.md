@@ -14,4 +14,9 @@ Aprender tudo de ponta a ponta sobre esse o ecossistema javaScript
 
 ### Conteúdo
 
-- JavaScript | Node.js| ESNext | HTML5 | CSS3 | Ajax | Gulp |  Webpack | jQuery | Bootstrap | React | VueJS | Angular 9 | BD Relacional |  NoSQL |  Express
+- HTML5,CSS3 e JavaScript 
+- Node.js e ESNext 
+- Ajax, Gulp, Webpack 
+- JQuery,  Bootstrap 
+- React, VueJS, Angular 9 
+- BD Relacional, NoSQL, Express
