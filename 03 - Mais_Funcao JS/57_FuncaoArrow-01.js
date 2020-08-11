@@ -17,9 +17,8 @@ dobro = (a) => {
     return a * 2
 }
 
-//Arrow Function mais reduzida
+//Arrow Function mais reduzida - único parâmetro
 dobro = a => 2 * a //return implícita
-
 console.log(dobro(6));
 
 //Outro exemplo
@@ -27,6 +26,7 @@ let ola = function() {
     return 'Olá Mundo'
 }
 
+//Arrow function
 ola = () => 'Ola'
 ola = _ => 'Ola' // Possui um parâmetro
 console.log(ola());
