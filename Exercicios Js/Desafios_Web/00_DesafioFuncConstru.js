@@ -1,4 +1,7 @@
 //Portar para uma função construtor 
+
+//Antes
+//
 // class Pessoa {
 //     constructor(nome) {
 //             this.nome = nome
