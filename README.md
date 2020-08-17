@@ -5,6 +5,7 @@
 <p align="center">
  <img src="https://img.icons8.com/color/240/000000/javascript-logo-1.png"/>
 </p>
+
 ---
 
 **Curso:** Desenvolvimento Web Moderno JavaScript + Projetos | Cod3r
