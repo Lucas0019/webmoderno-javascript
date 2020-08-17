@@ -2,17 +2,22 @@
 
 # Desenvolvimento Web Moderno - JavaScript 🚀️
 ---
-Curso: Desenvolvimento Web Moderno JavaScript + Projetos
+<p align="center">
+ <img src="https://img.icons8.com/color/240/000000/javascript-logo-1.png"/>
+</p>
+--
 
-Plataforma: Udemy
+**Curso:** Desenvolvimento Web Moderno JavaScript + Projetos | Cod3r
 
-Professor: Leonardo Leitão
+**Plataforma:** Udemy
+
+**Professor:** Leonardo Leitão
 
 #### Objetivo:
 
 Aprender tudo de ponta a ponta sobre esse o ecossistema javaScript 
 
-### Conteúdo
+### Tacnologias Estudadas
 
 - HTML5, CSS3 e JavaScript 
 - Node.js e ESNext 
