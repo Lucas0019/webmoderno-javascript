@@ -5,5 +5,23 @@
 
 //Setters - A sintaxe set liga a propriedade da função para ser chamada quando existe uma tentativa de definir valor para essa propriedade.
 // prop - Nome da propriedade ligada a função.
-// val - Um apelido para variável que será atribuidada a prop.
+// val - Um apelido para variável que será atribuída da a prop.
 // expression -Iniciando com ECMAScript 6, você pode usar também expressões para computar o nome da propriedade a ser definida na função.
+
+const sequencia = {
+    _valor: 1, // convenção
+    get valor() {
+        return this._valor++
+    },
+    set valor(valor) {
+        if (valor > this._valor) {
+            this._valor = valor
+        }
+    }
+}
+
+console.log(sequencia.valor, sequencia.valor)
+sequencia.valor = 1000
+console.log(sequencia.valor, sequencia.valor)
+sequencia.valor = 900
+console.log(sequencia.valor, sequencia.valor)
