@@ -19,6 +19,7 @@ console.log(filho.atr3);//retorna C , pois é o primeiro elemento encontrado
 const carro = {
     velAtual: 0,
     velMax: 200,
+
     acelerarMais(delta) {
         if (this.velAtual + delta <= this.velMax) {
             this.velAtual += delta
@@ -26,6 +27,7 @@ const carro = {
             this.velAtual = this.velMax
         }
     },
+
     status() {
         return `${this.velAtual}Km/h de ${this.velMax}Km/h`
     }
